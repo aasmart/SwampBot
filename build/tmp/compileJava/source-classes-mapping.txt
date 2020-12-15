@@ -1,0 +1,14 @@
+bot/events/Startup.java
+ bot.events.Startup
+bot/events/MessageReceived.java
+ bot.events.MessageReceived
+bot/swampFeverFunction/Symptoms.java
+ bot.swampFeverFunction.Symptoms
+bot/events/PrivateMessage.java
+ bot.events.PrivateMessage
+bot/swampFeverFunction/Cure.java
+ bot.swampFeverFunction.Cure
+bot/swampFeverFunction/Transmit.java
+ bot.swampFeverFunction.Transmit
+bot/Main.java
+ bot.Main
